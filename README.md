@@ -1,10 +1,8 @@
 # JSONedit
 
-User friendly, visual JSON editor built as an AngularJS directive. Provides a basic GUI to edit JSON.
+This is just a random fork 
 
-**Note**: this project is not maintained anymore, since it's an AngularJS 1 directive.
-
-**[Give it a try!](http://mb21.github.io/JSONedit)**
+**[Give it a try!](https://federicobrn.github.io/JSONedit/)**
 
 #### Use as Angular module
 
